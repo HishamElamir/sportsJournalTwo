@@ -1,0 +1,9 @@
+E:\projects\C#\DBSets\sportsJournal.One\bin\Debug\sportsJournal.One.dacpac
+E:\projects\C#\DBSets\sportsJournal.One\bin\Debug\sportsJournal.One.dll
+E:\projects\C#\DBSets\sportsJournal.One\bin\Debug\sportsJournal.One.pdb
+E:\projects\C#\DBSets\sportsJournal.One\obj\Debug\Model.xml
+E:\projects\C#\DBSets\sportsJournal.One\obj\Debug\refactor.xml
+E:\projects\C#\DBSets\sportsJournal.One\obj\Debug\postdeploy.sql
+E:\projects\C#\DBSets\sportsJournal.One\obj\Debug\predeploy.sql
+E:\projects\C#\DBSets\sportsJournal.One\obj\Debug\sportsJournal.One.dll
+E:\projects\C#\DBSets\sportsJournal.One\obj\Debug\sportsJournal.One.pdb

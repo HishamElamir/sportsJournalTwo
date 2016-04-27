@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="92c43fcd-42ec-46ff-aac3-087cd71e48cc" ChangeDateTime="04/27/2016 20:45:43">
+    <Property Name="ElementName" Value="[dbo].[Rates].[updated_at]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Rates]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="created_at" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="744d1359-c2c5-4468-9af6-6f7402c0b6d9" ChangeDateTime="04/27/2016 20:45:55">
+    <Property Name="ElementName" Value="[dbo].[Rates].[created_at]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Rates]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="rate" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="831ba1c3-093c-4ee2-90c0-7750178ad22d" ChangeDateTime="04/27/2016 20:49:53">
+    <Property Name="ElementName" Value="[dbo].[FK_Answers_ToTable]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[Answers]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_Answers_Users]" />
+  </Operation>
+</Operations>
